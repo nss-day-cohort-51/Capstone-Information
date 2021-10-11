@@ -26,22 +26,22 @@ Once you have a completed proposal, you will meet with an instruction team membe
 
 
 ### DEADLINES
-* **Beginning Now** Share your initial idea with Brenda and get 👍 thumbs-up.
+* **Beginning Now** Share your initial idea (1-2 sentences) with Brenda and get 👍 thumbs-up.
 
-* **Friday 04/23/2021:** Last Day for Final Capstone Proposals, see [instructions](./02-capstone-proposal..md). **Sooner is better**. We have to review all proposals and have 1-on-1's with each of you.
+* **Friday 10/15/2021:** Last Day for Final Capstone Proposals, see [instructions](./02-capstone-proposal..md). **Sooner is better**. We have to review all proposals and have 1-on-1's with each of you.
 
 * **Ongoing** As complete proposals are received, 1-on-1s with mentor to determine realistic MVP.
 
-* **Thursday 05/06/2021:** That last day for MVP approval. **Sooner is better**. 
+* **Thursday 10/28/2021:** That last day for MVP approval. **Sooner is better**. 
 	1. Demonstrate MVP goals to your mentor
 	2. Explain the code for your application to the lead instructor. Be prepared to answer questions related to anything covered in the frontend.
 	3. **After lead instructor approval you may work on stretch goals!**
 
-* **Friday 05/07/2021:** Soft demos start at 9 AM. EVERY person will do a soft demo to the cohort. See [demo presentation](./05-presentation.md).
+* **Friday 10/29/2021:** Soft demos start at 9 AM. EVERY person will do a soft demo to the cohort. See [demo presentation](./05-presentation.md).
 
-* **Monday 05/17/2021:** Preparation for Capstone Demos - also your last day of front-end.
+* **Monday 11/08/2021:** Preparation for Capstone Demos - also your last day of front-end.
 
-* **Tuesday 05/18/2021:** Front-end Capstone Demos for NSS students & staff. See [demo presentation](./05-presentation.md).
+* **Tuesday 11/09/2021:** Front-end Capstone Demos for NSS students & staff. See [demo presentation](./05-presentation.md).
 
 
 ### Cool and Helpful Stuff

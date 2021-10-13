@@ -28,7 +28,7 @@ Once you have a completed proposal, you will meet with an instruction team membe
 ### DEADLINES
 * **Beginning Now** Share your initial idea (1-2 sentences) with Brenda and get 👍 thumbs-up.
 
-* **Friday 10/15/2021:** Last Day for Final Capstone Proposals, see [instructions](./02-capstone-proposal..md). **Sooner is better**. We have to review all proposals and have 1-on-1's with each of you.
+* **Friday 10/15/2021:** Last Day for Final Capstone Proposals, see [instructions](./02-capstone-proposal.md). **Sooner is better**. We have to review all proposals and have 1-on-1's with each of you.
 
 * **Ongoing** As complete proposals are received, 1-on-1s with mentor to determine realistic MVP.
 
